@@ -14,6 +14,7 @@ import (
 	"strings"
 )
 
+
 type (
 	// BasicScheme represents the BasicAuth security scheme.
 	// It consists of a simple username and password.
