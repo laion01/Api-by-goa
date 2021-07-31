@@ -1,5 +1,6 @@
 package codegen
 
+//code generator
 import (
 	"bytes"
 	"testing"
